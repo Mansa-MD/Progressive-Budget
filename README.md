@@ -18,17 +18,8 @@
 
 # Usage
 * Heroku Link:
-    https://calm-oasis-32152.herokuapp.com/
+    https://show-me-the-money-app.herokuapp.com/
     
-* Offline image:
-https://github.com/Mansa-MD/Progressive-Budget/tree/master/public/assets/img
-
-![Offline](https://github.com/Mansa-MD/Progressive-Budget/tree/master/public/assets/img/offline.png)
-
-* Online image:
-
-![Offline](https://github.com/Mansa-MD/Progressive-Budget/tree/master/public/assets/img/online.png)
-
 # License
 MIT License
 
