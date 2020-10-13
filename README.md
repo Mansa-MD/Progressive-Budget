@@ -20,6 +20,9 @@
 * Heroku Link:
     https://show-me-the-money-app.herokuapp.com/
     
+* Online/Offline Video Link:
+    https://drive.google.com/file/d/1LMfgshcOVB1rheNEwL-YFqL9b025Hc1h/view?usp=sharing
+    
 # License
 MIT License
 
